@@ -1,0 +1,6 @@
+C:\Users\serda\RiderProjects\TekrarEtmeyen\TekrarEtmeyen\bin\Debug\TekrarEtmeyen.exe
+C:\Users\serda\RiderProjects\TekrarEtmeyen\TekrarEtmeyen\bin\Debug\TekrarEtmeyen.pdb
+C:\Users\serda\RiderProjects\TekrarEtmeyen\TekrarEtmeyen\obj\Debug\TekrarEtmeyen.csprojAssemblyReference.cache
+C:\Users\serda\RiderProjects\TekrarEtmeyen\TekrarEtmeyen\obj\Debug\TekrarEtmeyen.csproj.CoreCompileInputs.cache
+C:\Users\serda\RiderProjects\TekrarEtmeyen\TekrarEtmeyen\obj\Debug\TekrarEtmeyen.exe
+C:\Users\serda\RiderProjects\TekrarEtmeyen\TekrarEtmeyen\obj\Debug\TekrarEtmeyen.pdb
